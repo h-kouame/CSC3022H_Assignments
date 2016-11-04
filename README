@@ -1,0 +1,17 @@
+The assignment was done using Visual Studio Community 15
+As specified in the assignment, the parameters can be changed 
+in the clean_slate/params.ini file
+depending on the environment (among the 3 envs),
+an output file will be generated logging the number of mines swept
+and the number of destroyed sweepers.
+so we will have "env_1_log.csv" "env_2_log.csv" and "env_3_log.csv"
+
+open the project by opening the clean_slate/smart sweepers.vcxproj in visual studio preferably 2015.
+
+Sent me an email if you encounter any problem at ksskou001@myuct.ac.za
+
+data folder contains the simulation data used in the report
+
+report forlder contains the report.
+
+Enjoy
