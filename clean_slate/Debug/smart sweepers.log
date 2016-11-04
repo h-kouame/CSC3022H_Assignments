@@ -1,20 +1,68 @@
-﻿  CQLearningController.cpp
-c:\school\csc3022h\ml\assignment\qlearning_\qlearning\clean_slate\C2DMatrix.h(102): warning C4018: '<': signed/unsigned mismatch
-c:\school\csc3022h\ml\assignment\qlearning_\qlearning\clean_slate\C2DMatrix.h(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\school\csc3022h\ml\assignment\qlearning_\qlearning\clean_slate\C2DMatrix.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+﻿  utils.cpp
+  main.cpp
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(288): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CTimer.cpp
+  CQLearningController.cpp
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 CQLearningController.cpp(39): warning C4018: '<': signed/unsigned mismatch
 CQLearningController.cpp(58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 CQLearningController.cpp(88): warning C4018: '<': signed/unsigned mismatch
 CQLearningController.cpp(109): warning C4018: '<': signed/unsigned mismatch
 CQLearningController.cpp(119): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CParams.cpp
+  CNeuralNet.cpp
+  CMinesweeper.cpp
+  CDiscMinesweeper.cpp
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+CDiscMinesweeper.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+CDiscMinesweeper.cpp(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+CDiscMinesweeper.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  CDiscController.cpp
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+CDiscController.cpp(76): warning C4018: '<': signed/unsigned mismatch
+CDiscController.cpp(127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+CDiscController.cpp(175): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+CDiscController.cpp(265): warning C4018: '<': signed/unsigned mismatch
+  CDiscCollisionObject.cpp
+  CController.cpp
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+CController.cpp(73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CController.cpp(76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CController.cpp(79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CController.cpp(92): warning C4018: '<': signed/unsigned mismatch
+CController.cpp(94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+CController.cpp(94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+CController.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  CContMinesweeper.cpp
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+CContMinesweeper.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  CContController.cpp
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+CContController.cpp(140): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+CContController.cpp(206): warning C4018: '<': signed/unsigned mismatch
+  CContCollisionObject.cpp
+  CCollisionObject.cpp
+  C2DMatrix.cpp
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\C2DMatrix.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Generating Code...
-c:\school\csc3022h\ml\assignment\qlearning_\qlearning\clean_slate\cqlearningcontroller.cpp(69): warning C4715: 'CQLearningController::R': not all control paths return a value
-  Compiling...
-  main.cpp
-c:\school\csc3022h\ml\assignment\qlearning_\qlearning\clean_slate\C2DMatrix.h(102): warning C4018: '<': signed/unsigned mismatch
-c:\school\csc3022h\ml\assignment\qlearning_\qlearning\clean_slate\C2DMatrix.h(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\school\csc3022h\ml\assignment\qlearning_\qlearning\clean_slate\C2DMatrix.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-main.cpp(288): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Generating Code...
-  smart sweepers.vcxproj -> C:\School\CSC3022H\ML\Assignment\QLearning_\QLearning\clean_slate\Debug\smart sweepers.exe
-  smart sweepers.vcxproj -> C:\School\CSC3022H\ML\Assignment\QLearning_\QLearning\clean_slate\Debug\smart sweepers.pdb (Full PDB)
+c:\school\csc3022h\ml\assignment\qlearning_ksskou001_submitted\qlearning\clean_slate\cqlearningcontroller.cpp(69): warning C4715: 'CQLearningController::R': not all control paths return a value
+  LINK : C:\School\CSC3022H\ML\Assignment\QLearning_KSSKOU001_Submitted\QLearning\clean_slate\Debug\smart sweepers.exe not found or not built by the last incremental link; performing full link
+  smart sweepers.vcxproj -> C:\School\CSC3022H\ML\Assignment\QLearning_KSSKOU001_Submitted\QLearning\clean_slate\Debug\smart sweepers.exe
+  smart sweepers.vcxproj -> C:\School\CSC3022H\ML\Assignment\QLearning_KSSKOU001_Submitted\QLearning\clean_slate\Debug\smart sweepers.pdb (Full PDB)
